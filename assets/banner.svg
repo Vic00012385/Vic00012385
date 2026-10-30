@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Vic — AI for cyclic peptide research</title>
+  <desc id="desc">Practical tools, transparent evaluation, reproducible workflows.</desc>
+  <rect width="1000" height="260" rx="18" fill="#173b35"/>
+  <g fill="none" stroke="#4a6d57" stroke-width="1"><path d="M700 0v260M760 0v260M820 0v260M880 0v260M940 0v260M640 55h360M640 115h360M640 175h360M640 235h360"/></g>
+  <text x="48" y="59" fill="#c0e37d" font-family="sans-serif" font-size="12" letter-spacing="3">BUILDING AT THE INTERSECTION</text>
+  <text x="45" y="126" fill="#fffefa" font-family="sans-serif" font-size="52" font-weight="600">AI × Cyclic Peptides</text>
+  <text x="48" y="174" fill="#cbd6cb" font-family="sans-serif" font-size="18">Practical tools. Transparent evaluation.</text>
+  <text x="48" y="202" fill="#cbd6cb" font-family="sans-serif" font-size="18">Reproducible workflows.</text>
+  <g fill="none" stroke="#c0e37d" stroke-width="2"><path d="m834 51 67 38 2 79-69 40-67-40-1-79Z"/><path d="m767 168 134-79" stroke-dasharray="6 6"/></g>
+  <g fill="#173b35" stroke="#c0e37d" stroke-width="2"><circle cx="834" cy="51" r="11"/><circle cx="901" cy="89" r="11"/><circle cx="903" cy="168" r="11"/><circle cx="834" cy="208" r="11"/><circle cx="767" cy="168" r="11"/><circle cx="766" cy="89" r="11"/></g>
+</svg>
